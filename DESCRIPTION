@@ -1,0 +1,14 @@
+Package: fishingoverlap
+Type: Package
+Title: Estimate Spatial Overlap Between Fishing Events
+Description: Estimate the spatial overlap between fishing events.
+Version: 0.1.0
+Authors@R: c(
+    person("Clara", "Peron", email = "Clara.Peron@aad.gov.au", role = "aut"),
+    person("Paul", "Burch", email =  "Paul.Burch@aad.gov.au", role = c("aut", "cre")))
+Depends:
+    R (>= 3.0.2)
+VignetteBuilder: knitr
+LazyData: true
+License: GPL-3
+RoxygenNote: 6.0.1
